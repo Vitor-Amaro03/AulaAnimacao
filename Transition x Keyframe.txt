@@ -1,0 +1,13 @@
+1 - Transition x Keyframe
+
+Transition (Animação por estado)
+A transição acontece quando algo mudade um estado para outro.
+2.Tipos
+Ease - Começa devagar, acelera e termina devagar.
+Linear - Velocidade constante.
+Easse-in - Começa lento
+Easse-out - Termina Lento
+Easse-in-out - Começa e termina lento
+
+Keyframe (Animação autônoma)
+A animação acontece sozinha.
