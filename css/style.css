@@ -16,10 +16,18 @@ body{
 }
 p{
     color: lightgrey;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 .nav{
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 15px;
+}
+a{
+    text-decoration: none;
+    color: #00cc8f;
+    transition: font-size 0.5s;
+}
+a:hover{
+    font-size: 25px;
 }
